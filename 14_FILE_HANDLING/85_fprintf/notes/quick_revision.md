@@ -1,0 +1,5 @@
+# Quick Revision – fprintf
+
+- Definition: fprintf.
+- Key points: core concept, syntax, common usage.
+- Remember: practice with examples.
