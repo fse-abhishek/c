@@ -1,5 +1,0 @@
-# Quick Revision – Recursion
-
-- Definition: Recursion.
-- Key points: core concept, syntax, common usage.
-- Remember: practice with examples.
