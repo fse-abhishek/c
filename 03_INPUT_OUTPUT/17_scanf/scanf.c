@@ -5,7 +5,7 @@ int main() {
     int age;
     float salary;
 
-    printf("===== Employee Information System =====\n");
+    printf("Employee Information System\n");
 
     printf("Enter your name: ");
     scanf("%49s", name);
@@ -16,7 +16,7 @@ int main() {
     printf("Enter your salary: ");
     scanf("%f", &salary);
 
-    printf("\n===== Employee Details =====\n");
+    printf("\nEmployee Details\n");
     printf("Name   : %s\n", name);
     printf("Age    : %d years\n", age);
     printf("Salary : %.2f\n", salary);
