@@ -1,4 +1,13 @@
 #include <stdio.h>
+void add();
+int main()
+
+{
+    add();
+    add();
+    add();
+
+}
 
 void add()
 {
@@ -6,13 +15,8 @@ void add()
     printf("Enter two numbers: ");
     scanf("%d%d", &a, &b);
     printf("Sum = %d\n", a + b);
+
 }
 
-int main()
-{
-    add();
-    add();
-    add();
 
-    return 0;
-}
+    
